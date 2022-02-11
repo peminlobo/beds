@@ -1,0 +1,60 @@
+body{
+background-color: rgb(255, 255, 255);
+}
+
+h2{
+    color: #43A6C6;
+    margin: 20px
+    
+}
+section {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color:darkblue;
+}
+h5 {
+    color: azure;
+    margin: 20px;
+}
+
+.tinybtn{
+    color: black;
+    background-color: #D3D3D3;
+    text-decoration: none;
+    height: 1cm;
+    padding: 3px 6px;
+    margin:10px 0;
+    border-left: 2px solid white;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.tinybtn{
+    background-color: #dfdfdf;
+    text-decoration: underline;
+}
+
+.tonybtn{
+    color: black;
+    background-color: #D3D3D3;
+    text-decoration: none;
+    height: 1cm;
+    padding: 3px 6px;
+    margin:10px 0;
+    border-left: 2px solid white;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.tonybtn{
+    background-color: #dfdfdf;
+    text-decoration: underline;
+}
+
+.navbar-custom{
+    height: 50px;
+}

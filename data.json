@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Bed-1",
+        "devices": [
+            {
+                "deviceUrl": "http://192.168.0.121",
+                "deviceName": "Drager"
+            },
+            {
+                "deviceUrl": "https://rtwohealthcare.com",
+                "deviceName": "ventilator"
+            }
+        ]
+    },
+    {
+        "name": "Bed-2",
+        "devices": [
+            {
+                "deviceUrl": "http://192.168.0.139",
+                "deviceName": "Yonker"
+            },
+            {
+                "deviceUrl": "https://rtwohealthcare.com/",
+                "deviceName": "ventilator"
+            }
+        ]
+    },
+    {
+        "name": "bed3",
+        "devices": [
+            {
+                "deviceUrl": "https://arjunckm.in",
+                "deviceName": "syringe"
+            },
+            {
+                "deviceUrl": "https://arjunckm.in",
+                "deviceName": "monitor"
+            }
+        ]
+    }
+]
